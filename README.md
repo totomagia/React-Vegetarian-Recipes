@@ -19,7 +19,7 @@ git clone https://github.com/srossella/books.git
 ## Install NPM packages
 
 npm install
-Get a free API key at Spooncolear.com . More info on the API https://spoonacular.com/food-api.
+Get a free API key at Spooncolear.com . More info on the API [here](https://spoonacular.com/food-api).
 
 Rename the file .env.example to .env in the root folder and insert your key:
 
@@ -50,14 +50,13 @@ Project Link: https://github.com/totomagia/React-Vegetarian-Recipes
 
 ## Acknowledgements
 
-* https://www.start2impact.it/
-* https://www.icon-icon.com;
-* https://firebase.google.com/
-* https://www.npmjs.com/package/axios
-* https://developer.mozilla.org/en-US/
-* https://github.com/
-* https://www.makeareadme.com/
-* https://spoonacular.com/food-api
+* [S2I](https://www.start2impact.it/)
+* [ICON](https://www.icon-icon.com);
+* [FIREBASE](https://firebase.google.com/)
+* [AXIOS](https://www.npmjs.com/package/axios)
+* [GIT](https://github.com/)
+* [READ-ME](https://www.makeareadme.com/)
+* [API](https://spoonacular.com/food-api)
 
 # Deploy
 https://vegetarian-recipes-rjs.web.app/
