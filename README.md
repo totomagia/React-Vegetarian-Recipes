@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+## Vegetarian Recipes React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Vegetarian Recipes is a web app made whit React that through the API recalls data from an external server, provide vegetarian recipes.
 
-## Available Scripts
+## Getting Started
+To run a local copy in your computer please follow the steps below.
 
-In the project directory, you can run:
+## Prerequisites
 
-### `npm start`
+Install the latest version of npm
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+npm install npm@latest -g
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
+Clone the repository
 
-### `npm test`
+git clone https://github.com/srossella/books.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Install NPM packages
 
-### `npm run build`
+npm install
+Get a free API key at Spooncolear.com . More info on the API https://spoonacular.com/food-api.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Rename the file .env.example to .env in the root folder and insert your key:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+REACT_APP_APIKEY = 'your API key here'
+Run development version
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm start
 
-### `npm run eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Start typing a title or an ingredient in the input bar and results will show up straight away. By clicking the image a new page made with React Router will open up with additional info about the recipe.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Please make sure to update tests as appropriate.
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[MIT](https://choosealicense.com/licenses/mit/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contact
 
-### Code Splitting
+Antonello Napolitano - antonellonapolitano@libero.it
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Project Link: https://github.com/totomagia/React-Vegetarian-Recipes
 
-### Analyzing the Bundle Size
+## Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* https://www.start2impact.it/
+* https://www.icon-icon.com;
+* https://firebase.google.com/
+* https://www.npmjs.com/package/axios
+* https://developer.mozilla.org/en-US/
+* https://github.com/
+* https://www.makeareadme.com/
+* https://spoonacular.com/food-api
 
-### Making a Progressive Web App
+# Deploy
+https://vegetarian-recipes-rjs.web.app/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
