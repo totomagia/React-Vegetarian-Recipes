@@ -51,7 +51,7 @@ Project Link: https://github.com/totomagia/React-Vegetarian-Recipes
 ## Acknowledgements
 
 * [S2I](https://www.start2impact.it/)
-* [ICON](https://www.icon-icon.com);
+* [ICON](https://www.icon-icon.com)
 * [FIREBASE](https://firebase.google.com/)
 * [AXIOS](https://www.npmjs.com/package/axios)
 * [GIT](https://github.com/)
