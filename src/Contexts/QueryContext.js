@@ -4,7 +4,7 @@ export const QueryContext= createContext();
 
 export function QueryContextProvider (props) {
     
-    const [query,setQuery] = useState('Vegetarian');
+    const [query,setQuery] = useState('null');
 
     
     return ( 
