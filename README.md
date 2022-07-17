@@ -57,7 +57,7 @@ Project Link: https://github.com/totomagia/React-Vegetarian-Recipes
 * [GIT](https://github.com/)
 * [READ-ME](https://www.makeareadme.com/)
 * [API](https://spoonacular.com/food-api)
-* [MUI] (https://mui.com/)
+* [MUI](https://mui.com/)
 
 # Deploy
 https://vegetarian-recipes-rjs.web.app/
